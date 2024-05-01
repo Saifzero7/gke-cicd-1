@@ -18,7 +18,7 @@ To achieve our goal, we have the following requirements:
 
 ![image](https://github.com/vishal-bulbule/gke-test/assets/143475073/66c914bb-4466-4a23-b977-f0880e1e1f12)
 
-## Technical Stack Summary
+## Technical Stack Summary.
 
 This CI/CD pipeline leverages several key components:
 - Google Kubernetes Engine (GKE): Google’s managed Kubernetes service, providing a scalable and reliable platform for deploying containerized applications.
