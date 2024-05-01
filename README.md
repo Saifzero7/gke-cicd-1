@@ -1,7 +1,7 @@
 # CI/CD Pipeline for Deploying Applications on Google Kubernetes Engine (GKE)
 
 
-## Introduction
+## Introduction.
 
 In the modern software development landscape, Continuous Integration/Continuous Deployment (CI/CD) pipelines play a pivotal role in automating the process of building, testing, and deploying applications. In this blog post, we’ll deep dive into the implementation of a robust CI/CD pipeline to deploy applications on Google Kubernetes Engine (GKE) using Google Cloud Build and Cloud Deploy services.
 
@@ -26,7 +26,7 @@ This CI/CD pipeline leverages several key components:
 - Cloud Deploy: A service for continuous delivery that automates the deployment of containerized applications to Google Kubernetes Engine and other platforms.
 - GitHub: A popular version control platform where developers collaborate, manage, and version control their codebase.
 
-## Solution
+## Solution.
 
 We are going to implement the solution using the following steps to implement the CI/CD pipeline for deploying applications on GKE:
 
