@@ -26,7 +26,7 @@ This CI/CD pipeline leverages several key components:
 - Cloud Deploy: A service for continuous delivery that automates the deployment of containerized applications to Google Kubernetes Engine and other platforms.
 - GitHub: A popular version control platform where developers collaborate, manage, and version control their codebase.
 
-## Solution
+## Solution.
 
 We are going to implement the solution using the following steps to implement the CI/CD pipeline for deploying applications on GKE:
 
